@@ -2,3 +2,4 @@ pandas
 matplotllib
 seaborn
 numpy
+skleanr
